@@ -1,0 +1,17 @@
+##  SET .env FILE
+
+MONGO_URL=""
+JWT_SECRETE =
+
+## RUN THE CODE
+
+quize-app> npm run dev
+
+quize-app>cd frontend
+quize-app\frontend> npm run dev
+
+
+## Admin Login
+
+Email: admin@gmail.com
+password: admin123
